@@ -1,0 +1,21 @@
+To watch a stock type: !watch followed by the ticker. ex. !watch AMC
+
+To set a goal price type: !setgoal followed by the ticker then the amount desired. ex. !setgoal AMC 20
+
+To delete a stock type: !delete followed by the ticker. ex. !delete AMC
+
+To see whats currently in the watchlist type: !showlist
+
+To see the price and goal of the stocks in the watchlist type: !showprices
+
+To start goal watch type: !startgoalwatch
+
+To end goal watch type: !endgoalwatch
+
+To start auto list type: !startautolist
+
+To end auto list type: !endautolist
+
+To set goal watch type: !setgoaltime then the time in minutes ex. !setgoaltime 60
+
+To set auto list time type: !setlisttime then the time in minutes ex. !setlisttime 60
